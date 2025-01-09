@@ -54,7 +54,6 @@ screenListener.preventAndroidScreenShot(true);
 Take a look at docs and example code to get further information, PRs are very welcome 🙌
 
 
-## Donate
-Love my work? It must be nice to enjoy a cup of coffee on this beautiful day ☕️ &nbsp;😉 
+## Note
+I don't own this package. It just a copy and update namespace for use with new version of flutter due to owner not active.  
 
-<a href="https://paypal.me/nizwar/"><img src="https://raw.githubusercontent.com/andreostrovsky/donate-with-paypal/master/blue.svg" height="40"></a>  
